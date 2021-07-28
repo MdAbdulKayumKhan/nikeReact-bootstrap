@@ -1,0 +1,16 @@
+.bg-shoes{
+    background-color:#F1F1F1;
+    
+}
+
+.nike-btn{
+    color: white;
+    width: 140px;
+    height: 41px;
+    background: linear-gradient(#e66465, #9198e5);
+/* flex-lg-row flex-column-reverse */
+   
+}
+.price-color{
+    color: #865743;
+}
